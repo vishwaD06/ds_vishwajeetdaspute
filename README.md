@@ -15,10 +15,8 @@ This comprehensive data science project analyzes the relationship between **mark
 ## 📁 Directory Structure
 
 ```
-ds_vishwajeetdaspute/
-├── README.md                    
-├── notebook_1.ipynb            
-├── ds_report.pdf                
+ds_vishwajeetdaspute/                  
+├── notebook_1.ipynb                          
 │
 ├── csv_files/                   
 │   ├── historical_data.csv      
@@ -27,11 +25,14 @@ ds_vishwajeetdaspute/
 │
 ├── outputs/                    
 │   ├── sentiment_bar.png        
-│   ├── pnl_boxplot.png          
-│   ├── correlation_heatmap.png  
-│   └── [additional visualizations]
+│   ├── Closed_PnL.png          
+│   ├── Number_trade.png  
+│   └── tradesize.png
 │
-└── requirements.txt             
+└──    ds_report.pdf
+│   
+│
+└──   Readme.md   
 ```
 
 ---
