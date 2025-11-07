@@ -1,4 +1,4 @@
-# Data Science Internship Assignment: Sentiment Analysis & Trading Performance
+# Data Science Internship Assignment
 
 ## 📋 Project Overview
 
